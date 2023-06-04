@@ -1,2 +1,6 @@
-# airbnb-news-clone
-Clone of AirBnB news site, created as part of Altcademy Full Stack Web Development program 
+**Airbnb News Site Clone**<br>
+Static clone of Airbnb news site, created as part of Altcademy Full Stack Web Development program. Responsive design using Bootstrap 5 and flexbox.
+
+
+
+
